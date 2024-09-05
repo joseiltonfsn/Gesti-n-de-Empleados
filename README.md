@@ -1,1 +1,2 @@
-# SOL_GestionEmpleados
+# Gestion de Empleados 
+# Gestão de Funcionários
